@@ -1,6 +1,6 @@
 {
   "name": "Unicorn World",
-  "revision": "9043bed3796bf8df",
+  "revision": "25f22e6699cabc9e",
   "entry": "./hub/",
   "cafe": "./game/build/",
   "adventure": "./adventure/",
